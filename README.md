@@ -7,7 +7,7 @@ This repository contains official syllabus screenshots from MAKAUT (Maulana Abul
 - `Java-OOP-Course-Curriculum.pdf`  
   > Contains syllabus topics covering Object-Oriented Programming using Java, including concepts like classes, objects, inheritance, polymorphism, abstraction, and encapsulation.
 
-- `SQL-Course-Curriculum.pdf`  
+- `Sql-Course-Curriculum.pdf`  
   > Covers Database Management Systems (DBMS) and SQL, including relational models, schema design, normalization, queries, joins, and transactions.
 
 ## 🎯 Purpose
