@@ -10,6 +10,9 @@ This repository contains official syllabus screenshots from MAKAUT (Maulana Abul
 - `Sql-Course-Curriculum.pdf`  
   > Covers Database Management Systems (DBMS) and SQL, including relational models, schema design, normalization, queries, joins, and transactions.
 
+- `Java-Full-Stack-Development-Certificate.pdf`  
+  > Certificate of completion for a Full Stack Development course focused on Java, Spring Boot, SQL, and front-end technologies.
+  
 ## 🎯 Purpose
 
 These documents are shared as part of a proof of skills to verify academic exposure to Java OOP and SQL.
